@@ -11,7 +11,17 @@
 	-  [原理+代码｜深入浅出Python随机森林预测实战](https://mp.weixin.qq.com/s?__biz=MzI1MTUyMjc1Mg==&mid=2247496609&idx=1&sn=2f01891646ad3879c872e33bb1dac645&chksm=e9f3080ede8481182036815cde957d7f753e992b723f042c35ad3950c0c340884d682199dd52&token=1364950969&lang=zh_CN#rd)
 - [Python惊雷](https://mp.weixin.qq.com/s/yFLSO7SIJF0OoJiMJLJwaA)
 
-
+- **Python办公自动化系列**
+	- [从Word到Excel](https://mp.weixin.qq.com/s/Gry1gjz-ZmKyQOFoEnOm3g)
+	-  [从Excel到Word](https://mp.weixin.qq.com/s/51KH4awSetELwValW-05QQ)
+	-  [批量合并PDF，拿走就用](https://mp.weixin.qq.com/s/ZlgpWMKpex9Iu2o64r077A)
+	-  [批量处理文件](一学就会)
+	-  [光速对比并提取两份文档中的不同元素](https://mp.weixin.qq.com/s/QydLVggbU5nzheReZWLdkw)
+	-  [自动更新表格，告别繁琐](https://mp.weixin.qq.com/s/NwGol4y8leOoISAyeSQ7WA)
+	-  [自动更新不对称表格](https://mp.weixin.qq.com/s/0B9VBjf3fPNXJC9PwEVF9A)
+	-  [使用Python转换PDF](https://mp.weixin.qq.com/s/eFDGHbu-TVG9_Wtoke-68g)
+	-  [自动整理文件，一键完成](https://mp.weixin.qq.com/s/IKhI4nHUeaTE4KQUy36gDQ)
+	-  [批量提取Excel数据](https://mp.weixin.qq.com/s/YYw5kYQT-ean8wtW2yUPwQ)
 
 
 ### 欢迎关注：
