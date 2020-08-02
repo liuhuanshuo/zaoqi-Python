@@ -16,8 +16,9 @@ from tqdm import trange
 def get_danmu(url_list, name):
     '''
     下载弹幕存至本地txt
+    请先登录B站之后F12获取自己的Cookie
     '''
-    headers = {"cookie": "LIVE_BUVID=AUTO9915517606726630; im_notify_type_180143162=0; stardustvideo=1; CURRENT_FNVAL=16; fts=1554365582; rpdid=|(u||uuJuulu0J'ullY)Y|~Ru; _uuid=B9AB21E1-2195-504F-0F06-F6F422E3971C95847infoc; laboratory=1-1; DedeUserID=180143162; DedeUserID__ckMd5=6a199ea2f7d9ed69; SESSDATA=1362c3b2%2C1605078424%2Ccd9c2*51; bili_jct=33acf2c74709c63d0792cbfbe4e46e1e; sid=4ju11ogf; bsource=search_baidu; buvid3=2669E417-F7AC-4AFA-8145-00CAC77F870D138383infoc; PVID=1; bfe_id=463d72211d8612b93e1aed57df2ab3d4",
+    headers = {"cookie": "替换为自己的Cookie",
                "origin": "https://www.bilibili.com",
                "referer": "https://www.bilibili.com/video/BV1gW411b735",
                "sec-fetch-dest": "empty",
