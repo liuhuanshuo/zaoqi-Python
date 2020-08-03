@@ -9,6 +9,7 @@
 	-  [使用Python转换PDF](https://mp.weixin.qq.com/s/eFDGHbu-TVG9_Wtoke-68g)
 	-  [自动整理文件，一键完成](https://mp.weixin.qq.com/s/IKhI4nHUeaTE4KQUy36gDQ)
 	-  [批量提取Excel数据](https://mp.weixin.qq.com/s/YYw5kYQT-ean8wtW2yUPwQ)
+	-  [批量查找Excel数据](https://mp.weixin.qq.com/s/Wi_m8KuSlNBEi9LmZZrtqw)
 
 
 ### 欢迎关注：
