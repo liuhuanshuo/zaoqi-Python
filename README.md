@@ -24,6 +24,7 @@
 	-  [批量查找Excel数据](https://mp.weixin.qq.com/s/Wi_m8KuSlNBEi9LmZZrtqw)
 
 - [Python惊雷](https://mp.weixin.qq.com/s/yFLSO7SIJF0OoJiMJLJwaA)
+- [Python爬取公众号全部文章](https://mp.weixin.qq.com/s/gFKWuHBKWbDZH-ZheTfh3g)
 
 
 ### 欢迎关注：
