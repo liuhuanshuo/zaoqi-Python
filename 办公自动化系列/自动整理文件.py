@@ -2,6 +2,7 @@ import os
 import shutil
 import glob
 
+#下面两个路径需要自行修改
 mkdir_path = r'C:\Users\chenx\文件夹分类'
 goal_dir = r'C:\xxxxxxxx'
 
