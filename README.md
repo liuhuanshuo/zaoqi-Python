@@ -24,6 +24,8 @@
 	-  [自动整理文件，一键完成](https://mp.weixin.qq.com/s/IKhI4nHUeaTE4KQUy36gDQ)
 	-  [批量提取Excel数据](https://mp.weixin.qq.com/s/YYw5kYQT-ean8wtW2yUPwQ)
 	-  [批量查找Excel数据](https://mp.weixin.qq.com/s/Wi_m8KuSlNBEi9LmZZrtqw)
+	-  [从PPT到Word](https://mp.weixin.qq.com/s/6iN9Gtnii0WOjH18Gvuudw)
+	-  [光速制作合同](https://mp.weixin.qq.com/s/rkCNUDPwwD-OAUm2FjpMgw)
 
 - [Python惊雷](https://mp.weixin.qq.com/s/yFLSO7SIJF0OoJiMJLJwaA)
 - [Python爬取公众号全部文章](https://mp.weixin.qq.com/s/gFKWuHBKWbDZH-ZheTfh3g)
