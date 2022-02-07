@@ -1,0 +1,3 @@
+需要安装与自己环境对应的版本的pygame
+
+Windows下需要注释掉 from tkmacosx import Button 或者尝试安装 tkmacos
